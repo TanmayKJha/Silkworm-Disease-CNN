@@ -56,3 +56,5 @@ Run Training Script:
 
 Evaluate Model:
 ->python evaluate.py  
+
+FOR MORE DETAILS/OUTPUT/CODE SEE THE TRAINING FILE !!!!!
