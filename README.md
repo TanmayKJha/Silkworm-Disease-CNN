@@ -58,5 +58,5 @@ Evaluate Model:
 ->python evaluate.py  
 
 FOR MORE DETAILS/OUTPUT/CODE SEE THE TRAINING FILE !!!!!
-![DISEASED & UNDISEASED CLASSIFICATION ]("C:\Users\Unique\Pictures\silkworm.png")
+![DISEASED & UNDISEASED CLASSIFICATION ](https://github.com/TanmayKJha/Silkworm-Disease-CNN/blob/main/silkworm.png)
 
