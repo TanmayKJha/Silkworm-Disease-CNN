@@ -3,6 +3,9 @@
 **Overview**
 This project implements a deep learning-based approach to classify images of Bombyx Mori silkworms into Diseased and Undiseased categories. By leveraging Convolutional Neural Networks (CNNs), the model achieves high accuracy, making it a reliable solution for early disease detection in sericulture.
 
+🔗 **Live Demo**: [Click here to try the app](https://silkwormdiseasepredictions.netlify.app/)
+
+
 **Dataset**
 Source: Dataset of 492 images belonging to two classes: Diseased and Undiseased.
 
